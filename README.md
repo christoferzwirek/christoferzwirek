@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christoferzwirek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning python
 - 💞️ I’m looking for a job
 - 📫 How to reach me Radekw702@gmail.com
 - https://www.codewars.com/users/christoferzwirek
