@@ -1,8 +1,8 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-        My name is Michael and i'm from Poland.<br>
+        My name is Radosław and i'm from Poland.<br>
         I'm in my final year of college, studying programming and mobile technologies.<br>
         Currently learning Python and full stack technologies.<br>
         Open to collaborating on interesting and innovative projects.<br>
@@ -24,7 +24,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <br>
 
@@ -34,14 +33,14 @@
 
 <div align="center">
 
-![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnexxe7&theme=transparent)
+![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christoferzwirek&theme=transparent)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nnexxe7&hide_border=true&card_width=338&theme=transparent)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnexxe7&theme=transparent)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=christoferzwirek&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnexxe7&hide_border=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christoferzwirek&hide_border=true&theme=transparent)
 
-![Views](https://komarev.com/ghpvc/?username=nnexxe7&color=blue&style=flat)
+
 
 
 </div>
