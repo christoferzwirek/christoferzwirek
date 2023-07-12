@@ -27,6 +27,8 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <br>
 
+![Codewars](https://github.r2v.ch/codewars?user=christoferzwirek&stroke=white)
+
 <div align="center">
 <h1> 📊 GitHub Stats:
 </div>
