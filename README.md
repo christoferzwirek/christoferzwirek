@@ -37,7 +37,7 @@
 
 ![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christoferzwirek&theme=transparent)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nnexxe7&hide_border=true&card_width=338&theme=transparent)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=christoferzwirek&hide_border=true&card_width=338&theme=transparent)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=christoferzwirek&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christoferzwirek&hide_border=true&theme=transparent)
