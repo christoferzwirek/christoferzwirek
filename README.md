@@ -9,7 +9,7 @@
         My name is Radosław and i'm from Poland.<br>
         I graduated from computer science studies, specializing in software engineering.<br>
         Currently learning Python and full stack technologies.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Open to collaborating on interesting and innovative projects<br>
   <br>
   
 <h2 align="center">Technology Stack</h2>
